@@ -356,26 +356,7 @@
         "categoria": {
           "id": "3129815",
           "descricao": "Hidraulica"
-        },
-        "pesoLiq": "0.02200",
-        "pesoBruto": "0.03500",
-        "estoqueMinimo": "0.00",
-        "estoqueMaximo": "0.00",
-        "gtin": "7894200028123",
-        "gtinEmbalagem": "",
-        "larguraProduto": "0.00",
-        "alturaProduto": "0.00",
-        "profundidadeProduto": "0.00",
-        "unidadeMedida": "Metros",
-        "itensPorCaixa": 12,
-        "volumes": 1,
-        "localizacao": "",
-        "crossdocking": "0",
-        "condicao": "Novo",
-        "freteGratis": "N",
-        "producao": "T",
-        "dataValidade": "0000-00-00",
-        "spedTipoItem": "00"
+        }
       }
     },
     {
@@ -410,26 +391,7 @@
         "categoria": {
           "id": "3129815",
           "descricao": "Hidraulica"
-        },
-        "pesoLiq": "0.00100",
-        "pesoBruto": "0.00200",
-        "estoqueMinimo": "0.00",
-        "estoqueMaximo": "0.00",
-        "gtin": "7894200034537",
-        "gtinEmbalagem": "",
-        "larguraProduto": "0.00",
-        "alturaProduto": "0.00",
-        "profundidadeProduto": "0.00",
-        "unidadeMedida": "Metros",
-        "itensPorCaixa": 1,
-        "volumes": 1,
-        "localizacao": "",
-        "crossdocking": "0",
-        "condicao": "Novo",
-        "freteGratis": "N",
-        "producao": "T",
-        "dataValidade": "0000-00-00",
-        "spedTipoItem": "00"
+        }
       }
     },
     {
@@ -465,25 +427,6 @@
           "id": "3129815",
           "descricao": "Hidraulica"
         },
-        "pesoLiq": "0.00100",
-        "pesoBruto": "0.00200",
-        "estoqueMinimo": "0.00",
-        "estoqueMaximo": "0.00",
-        "gtin": "7894200034162",
-        "gtinEmbalagem": "",
-        "larguraProduto": "0.00",
-        "alturaProduto": "0.00",
-        "profundidadeProduto": "0.00",
-        "unidadeMedida": "Metros",
-        "itensPorCaixa": 1,
-        "volumes": 1,
-        "localizacao": "",
-        "crossdocking": "0",
-        "condicao": "Novo",
-        "freteGratis": "N",
-        "producao": "T",
-        "dataValidade": "0000-00-00",
-        "spedTipoItem": "00"
       }
     },
     {
@@ -518,26 +461,42 @@
         "categoria": {
           "id": "3129815",
           "descricao": "Hidraulica"
-        },
-        "pesoLiq": "0.10000",
-        "pesoBruto": "0.12000",
-        "estoqueMinimo": "0.00",
-        "estoqueMaximo": "0.00",
-        "gtin": "7894200031611",
-        "gtinEmbalagem": "",
-        "larguraProduto": "0.00",
-        "alturaProduto": "0.00",
-        "profundidadeProduto": "0.00",
-        "unidadeMedida": "Metros",
-        "itensPorCaixa": 8,
-        "volumes": 1,
-        "localizacao": "",
-        "crossdocking": "0",
-        "condicao": "Novo",
-        "freteGratis": "N",
-        "producao": "T",
-        "dataValidade": "0000-00-00",
-        "spedTipoItem": "00"
+        }
+      }
+    }
+    {
+      "produto": {
+        "id": "12565242896",
+        "codigo": "4686.325",
+        "descricao": "REPARO VALV HYDRA MAX",
+        "tipo": "P",
+        "situacao": "Ativo",
+        "unidade": "UN",
+        "preco": "39.8000000000",
+        "precoCusto": "31.5100000000",
+        "descricaoCurta": "REPARO PARA VÁLVULA HYDRA MAX, CLEAN, PRO BASE DN40 1.1/2 E DN32 1.1/4 - Peça Original - Baixa e Alta Pressão Não utilizar óleo para substituição.",
+        "descricaoComplementar": "",
+        "dataInclusao": "2021-05-13",
+        "dataAlteracao": "2021-05-19",
+        "imageThumbnail": "https://raw.githubusercontent.com/ThiagoSGuiase/hydraulica-comercial-api/main/imgdb/reparo-original-hydra-max.jpg",
+        "urlVideo": "",
+        "nomeFornecedor": "HIDRAULICA SAO MIGUEL DE OURINHOS LTDA ME",
+        "codigoFabricante": "4686.325",
+        "marca": "HYDRA",
+        "class_fiscal": "8481.90.10",
+        "cest": "10.079.00",
+        "origem": "0",
+        "idGrupoProduto": "0",
+        "linkExterno": "",
+        "observacoes": "MAX,CLEAN(2550)",
+        "grupoProduto": null,
+        "garantia": "12",
+        "descricaoFornecedor": "",
+        "idFabricante": "12564224797",
+        "categoria": {
+          "id": "3129815",
+          "descricao": "Hidraulica"
+        }
       }
     }
   ]
