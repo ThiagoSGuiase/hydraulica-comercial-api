@@ -172,7 +172,7 @@
         "unidade": "UN",
         "preco": "49.6400000000",
         "precoCusto": "39.4600000000",
-        "descricaoCurta": "Mecanismo de acionamento para válvulas de descarga Hydra Luxo 2520 e Hydra Master 2530. Bitola para válvula DN32 (1 ¼'') e DN40 (1 ½'')• Comprimento: 8cm• Fácil instalação• Peça original",
+        "descricaoCurta": "Mecanismo de acionamento para válvulas de descarga Hydra Luxo 2520 e Hydra Master 2530. Bitola para válvula DN32 (1 ¼'') e DN40 (1 ½'')• Comprimento: 8cm• Fácil instalação• Peça original",
         "descricaoComplementar": "",
         "dataInclusao": "2021-05-13",
         "dataAlteracao": "2021-05-19",
@@ -464,26 +464,7 @@
         "categoria": {
           "id": "3129815",
           "descricao": "Hidraulica"
-        },
-        "pesoLiq": "0.00100",
-        "pesoBruto": "0.00200",
-        "estoqueMinimo": "0.00",
-        "estoqueMaximo": "0.00",
-        "gtin": "7894200034162",
-        "gtinEmbalagem": "",
-        "larguraProduto": "0.00",
-        "alturaProduto": "0.00",
-        "profundidadeProduto": "0.00",
-        "unidadeMedida": "Metros",
-        "itensPorCaixa": 1,
-        "volumes": 1,
-        "localizacao": "",
-        "crossdocking": "0",
-        "condicao": "Novo",
-        "freteGratis": "N",
-        "producao": "T",
-        "dataValidade": "0000-00-00",
-        "spedTipoItem": "00"
+        }
       }
     },
     {
@@ -496,7 +477,7 @@
         "unidade": "UN",
         "preco": "39.8000000000",
         "precoCusto": "31.5100000000",
-        "descricaoCurta": "REPARO PARA VÁLVULA HYDRA MAX, CLEAN, PRO BASE DN40 1.1/2 E DN32 1.1/4 - Peça Original - Baixa e Alta Pressão Não utilizar óleo para substituição.",
+        "descricaoCurta": "REPARO PARA VÁLVULA HYDRA MAX, CLEAN, PRO BASE DN40 1.1/2 E DN32 1.1/4 - Peça Original - Baixa e Alta Pressão Não utilizar óleo para substituição.",
         "descricaoComplementar": "",
         "dataInclusao": "2021-05-13",
         "dataAlteracao": "2021-05-19",
@@ -518,26 +499,7 @@
         "categoria": {
           "id": "3129815",
           "descricao": "Hidraulica"
-        },
-        "pesoLiq": "0.10000",
-        "pesoBruto": "0.12000",
-        "estoqueMinimo": "0.00",
-        "estoqueMaximo": "0.00",
-        "gtin": "7894200031611",
-        "gtinEmbalagem": "",
-        "larguraProduto": "0.00",
-        "alturaProduto": "0.00",
-        "profundidadeProduto": "0.00",
-        "unidadeMedida": "Metros",
-        "itensPorCaixa": 8,
-        "volumes": 1,
-        "localizacao": "",
-        "crossdocking": "0",
-        "condicao": "Novo",
-        "freteGratis": "N",
-        "producao": "T",
-        "dataValidade": "0000-00-00",
-        "spedTipoItem": "00"
+        }
       }
     }
   ]
