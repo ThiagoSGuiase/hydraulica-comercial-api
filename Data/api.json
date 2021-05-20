@@ -32,26 +32,7 @@
         "categoria": {
           "id": "3129815",
           "descricao": "Hidraulica"
-        },
-        "pesoLiq": "0.00501",
-        "pesoBruto": "0.00600",
-        "estoqueMinimo": "0.00",
-        "estoqueMaximo": "0.00",
-        "gtin": "7894200037217",
-        "gtinEmbalagem": "",
-        "larguraProduto": "0.00",
-        "alturaProduto": "0.00",
-        "profundidadeProduto": "0.00",
-        "unidadeMedida": "Metros",
-        "itensPorCaixa": 1,
-        "volumes": 1,
-        "localizacao": "",
-        "crossdocking": "0",
-        "condicao": "Novo",
-        "freteGratis": "N",
-        "producao": "T",
-        "dataValidade": "0000-00-00",
-        "spedTipoItem": "00"
+        }
       }
     },
     {
@@ -86,26 +67,7 @@
         "categoria": {
           "id": "3129815",
           "descricao": "Hidraulica"
-        },
-        "pesoLiq": "0.01000",
-        "pesoBruto": "0.01000",
-        "estoqueMinimo": "0.00",
-        "estoqueMaximo": "0.00",
-        "gtin": "7894200028994",
-        "gtinEmbalagem": "",
-        "larguraProduto": "0.00",
-        "alturaProduto": "0.00",
-        "profundidadeProduto": "0.00",
-        "unidadeMedida": "Metros",
-        "itensPorCaixa": 1,
-        "volumes": 1,
-        "localizacao": "",
-        "crossdocking": "0",
-        "condicao": "Novo",
-        "freteGratis": "N",
-        "producao": "T",
-        "dataValidade": "0000-00-00",
-        "spedTipoItem": "00"
+        }
       }
     },
     {
@@ -140,26 +102,7 @@
         "categoria": {
           "id": "3129815",
           "descricao": "Hidraulica"
-        },
-        "pesoLiq": "0.05600",
-        "pesoBruto": "0.05600",
-        "estoqueMinimo": "0.00",
-        "estoqueMaximo": "0.00",
-        "gtin": "7894200033202",
-        "gtinEmbalagem": "",
-        "larguraProduto": "0.00",
-        "alturaProduto": "0.00",
-        "profundidadeProduto": "0.00",
-        "unidadeMedida": "Metros",
-        "itensPorCaixa": 1,
-        "volumes": 1,
-        "localizacao": "",
-        "crossdocking": "0",
-        "condicao": "Novo",
-        "freteGratis": "N",
-        "producao": "T",
-        "dataValidade": "0000-00-00",
-        "spedTipoItem": "00"
+        }
       }
     },
     {
@@ -194,26 +137,7 @@
         "categoria": {
           "id": "3129815",
           "descricao": "Hidraulica"
-        },
-        "pesoLiq": "0.03600",
-        "pesoBruto": "0.04600",
-        "estoqueMinimo": "0.00",
-        "estoqueMaximo": "0.00",
-        "gtin": "7894200044451",
-        "gtinEmbalagem": "",
-        "larguraProduto": "0.00",
-        "alturaProduto": "0.00",
-        "profundidadeProduto": "0.00",
-        "unidadeMedida": "Metros",
-        "itensPorCaixa": 16,
-        "volumes": 1,
-        "localizacao": "",
-        "crossdocking": "0",
-        "condicao": "Novo",
-        "freteGratis": "N",
-        "producao": "T",
-        "dataValidade": "0000-00-00",
-        "spedTipoItem": "00"
+        }
       }
     },
     {
@@ -248,26 +172,7 @@
         "categoria": {
           "id": "3129815",
           "descricao": "Hidraulica"
-        },
-        "pesoLiq": "0.07300",
-        "pesoBruto": "0.08300",
-        "estoqueMinimo": "0.00",
-        "estoqueMaximo": "0.00",
-        "gtin": "7894200032106",
-        "gtinEmbalagem": "",
-        "larguraProduto": "0.00",
-        "alturaProduto": "0.00",
-        "profundidadeProduto": "0.00",
-        "unidadeMedida": "Metros",
-        "itensPorCaixa": 16,
-        "volumes": 1,
-        "localizacao": "",
-        "crossdocking": "0",
-        "condicao": "Novo",
-        "freteGratis": "N",
-        "producao": "T",
-        "dataValidade": "0000-00-00",
-        "spedTipoItem": "00"
+        }
       }
     },
     {
@@ -302,26 +207,7 @@
         "categoria": {
           "id": "3129815",
           "descricao": "Hidraulica"
-        },
-        "pesoLiq": "0.00100",
-        "pesoBruto": "0.00200",
-        "estoqueMinimo": "0.00",
-        "estoqueMaximo": "0.00",
-        "gtin": "7894200035541",
-        "gtinEmbalagem": "",
-        "larguraProduto": "0.00",
-        "alturaProduto": "0.00",
-        "profundidadeProduto": "0.00",
-        "unidadeMedida": "Metros",
-        "itensPorCaixa": 1,
-        "volumes": 1,
-        "localizacao": "",
-        "crossdocking": "0",
-        "condicao": "Novo",
-        "freteGratis": "N",
-        "producao": "T",
-        "dataValidade": "0000-00-00",
-        "spedTipoItem": "00"
+        }
       }
     },
     {
@@ -356,26 +242,7 @@
         "categoria": {
           "id": "3129815",
           "descricao": "Hidraulica"
-        },
-        "pesoLiq": "0.02200",
-        "pesoBruto": "0.03500",
-        "estoqueMinimo": "0.00",
-        "estoqueMaximo": "0.00",
-        "gtin": "7894200028123",
-        "gtinEmbalagem": "",
-        "larguraProduto": "0.00",
-        "alturaProduto": "0.00",
-        "profundidadeProduto": "0.00",
-        "unidadeMedida": "Metros",
-        "itensPorCaixa": 12,
-        "volumes": 1,
-        "localizacao": "",
-        "crossdocking": "0",
-        "condicao": "Novo",
-        "freteGratis": "N",
-        "producao": "T",
-        "dataValidade": "0000-00-00",
-        "spedTipoItem": "00"
+        }
       }
     },
     {
@@ -410,26 +277,7 @@
         "categoria": {
           "id": "3129815",
           "descricao": "Hidraulica"
-        },
-        "pesoLiq": "0.00100",
-        "pesoBruto": "0.00200",
-        "estoqueMinimo": "0.00",
-        "estoqueMaximo": "0.00",
-        "gtin": "7894200034537",
-        "gtinEmbalagem": "",
-        "larguraProduto": "0.00",
-        "alturaProduto": "0.00",
-        "profundidadeProduto": "0.00",
-        "unidadeMedida": "Metros",
-        "itensPorCaixa": 1,
-        "volumes": 1,
-        "localizacao": "",
-        "crossdocking": "0",
-        "condicao": "Novo",
-        "freteGratis": "N",
-        "producao": "T",
-        "dataValidade": "0000-00-00",
-        "spedTipoItem": "00"
+        }
       }
     },
     {
@@ -499,6 +347,48 @@
         "categoria": {
           "id": "3129815",
           "descricao": "Hidraulica"
+        }
+      }
+    },
+    {
+      "produto": {
+        "id": "12565242896",
+        "descricao": "LUMINARIA TUBULAR LED SOBREPOR",
+        "descricaoCurta": "Luminaria linear led sobrepor 120cm 36w luz fria ltc36 asus",
+        "imageThumbnail": "https://raw.githubusercontent.com/ThiagoSGuiase/hydraulica-comercial-api/main/imgdb/eletrica/luminaria-led.jpg",
+        "nomeFornecedor": "Hydraulica Comercial",
+        "observacoes": "MAX,CLEAN(2550)",
+        "categoria": {
+          "id": "3129815",
+          "descricao": "Eletrica"
+        }
+      }
+    },
+    {
+      "produto": {
+        "id": "12565242896",
+        "descricao": "CONJUNTO DE SOBREPOR",
+        "descricaoCurta": "Miluz deixa sua casa ainda mais bonita e moderna em cada detalhe, Caixa sobrepor Dexson-Miluz 1 interruptor simples 10Ax 250V",
+        "imageThumbnail": "https://raw.githubusercontent.com/ThiagoSGuiase/hydraulica-comercial-api/main/imgdb/eletrica/interruptor-sobrepor.jpg",
+        "nomeFornecedor": "Hydraulica Comercial",
+        "observacoes": "MAX,CLEAN(2550)",
+        "categoria": {
+          "id": "3129815",
+          "descricao": "Eletrica"
+        }
+      }
+    },
+    {
+      "produto": {
+        "id": "12565242896",
+        "descricao": "ESPELHO PLACA 2 POSTOS",
+        "descricaoCurta": "A Alumbra entende a importância de criar um ambiente favorável às vendas, por isso, criou um visual moderno e sofisticado nas embalagens.",
+        "imageThumbnail": "https://raw.githubusercontent.com/ThiagoSGuiase/hydraulica-comercial-api/main/imgdb/eletrica/tampa-para-tomada.jpg",
+        "nomeFornecedor": "Hydraulica Comercial",
+        "observacoes": "MAX,CLEAN(2550)",
+        "categoria": {
+          "id": "3129815",
+          "descricao": "Eletrica"
         }
       }
     }
