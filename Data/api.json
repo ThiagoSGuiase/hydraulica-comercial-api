@@ -320,30 +320,12 @@
         "id": "12565242896",
         "codigo": "4686.325",
         "descricao": "REPARO VALV HYDRA MAX",
-        "tipo": "P",
-        "situacao": "Ativo",
-        "unidade": "UN",
-        "preco": "39.8000000000",
-        "precoCusto": "31.5100000000",
         "descricaoCurta": "REPARO PARA VÁLVULA HYDRA MAX, CLEAN, PRO BASE DN40 1.1/2 E DN32 1.1/4 - Peça Original - Baixa e Alta Pressão Não utilizar óleo para substituição.",
         "descricaoComplementar": "",
-        "dataInclusao": "2021-05-13",
-        "dataAlteracao": "2021-05-19",
         "imageThumbnail": "https://raw.githubusercontent.com/ThiagoSGuiase/hydraulica-comercial-api/main/imgdb/reparo-original-hydra-max.jpg",
         "urlVideo": "",
-        "nomeFornecedor": "HIDRAULICA SAO MIGUEL DE OURINHOS LTDA ME",
-        "codigoFabricante": "4686.325",
+        "nomeFornecedor": "HIDRAULICA SAO MIGUEL DE OURINHOS LTDA ME",        
         "marca": "HYDRA",
-        "class_fiscal": "8481.90.10",
-        "cest": "10.079.00",
-        "origem": "0",
-        "idGrupoProduto": "0",
-        "linkExterno": "",
-        "observacoes": "MAX,CLEAN(2550)",
-        "grupoProduto": null,
-        "garantia": "12",
-        "descricaoFornecedor": "",
-        "idFabricante": "12564224797",
         "categoria": {
           "id": "3129815",
           "descricao": "Hidraulica"
@@ -352,7 +334,7 @@
     },
     {
       "produto": {
-        "id": "12565242896",
+        "id": "512948",
         "descricao": "LUMINARIA TUBULAR LED SOBREPOR",
         "descricaoCurta": "Luminaria linear led sobrepor 120cm 36w luz fria ltc36 asus",
         "imageThumbnail": "https://raw.githubusercontent.com/ThiagoSGuiase/hydraulica-comercial-api/main/imgdb/eletrica/luminaria-led.jpg",
@@ -366,7 +348,7 @@
     },
     {
       "produto": {
-        "id": "12565242896",
+        "id": "181624",
         "descricao": "CONJUNTO DE SOBREPOR",
         "descricaoCurta": "Miluz deixa sua casa ainda mais bonita e moderna em cada detalhe, Caixa sobrepor Dexson-Miluz 1 interruptor simples 10Ax 250V",
         "imageThumbnail": "https://raw.githubusercontent.com/ThiagoSGuiase/hydraulica-comercial-api/main/imgdb/eletrica/interruptor-sobrepor.jpg",
@@ -380,7 +362,7 @@
     },
     {
       "produto": {
-        "id": "12565242896",
+        "id": "485251",
         "descricao": "ESPELHO PLACA 2 POSTOS",
         "descricaoCurta": "A Alumbra entende a importância de criar um ambiente favorável às vendas, por isso, criou um visual moderno e sofisticado nas embalagens.",
         "imageThumbnail": "https://raw.githubusercontent.com/ThiagoSGuiase/hydraulica-comercial-api/main/imgdb/eletrica/tampa-para-tomada.jpg",
@@ -389,6 +371,174 @@
         "categoria": {
           "id": "3129815",
           "descricao": "Eletrica"
+        }
+      }
+    },
+    {
+      "produto": {
+        "id": "247232",
+        "descricao": "LUVA DE MALHA PIGMENTADA E TRICOTADA",
+        "descricaoCurta": "Luva de Malha Pigmentada com a qualidade Ledan, tricotada em 4 fios de algodão em peça única, sem costura com acabamento em overloque",
+        "imageThumbnail": "https://raw.githubusercontent.com/ThiagoSGuiase/hydraulica-comercial-api/main/imgdb/epi/luva-malha-pigmentada.jpg",
+        "nomeFornecedor": "Hydraulica Comercial",
+        "observacoes": "MAX,CLEAN(2550)",
+        "categoria": {
+          "id": "3129815",
+          "descricao": "EPI"
+        }
+      }
+    },
+    {
+      "produto": {
+        "id": "792239",
+        "descricao": "CAPACETE DE SEGURANÇA",
+        "descricaoCurta": "É um equipamento de proteção com casco que garante a absorção de impactos. O produto também apresenta uma suspensão para reposição",
+        "imageThumbnail": "https://raw.githubusercontent.com/ThiagoSGuiase/hydraulica-comercial-api/main/imgdb/epi/capacete-protecao.jpg",
+        "nomeFornecedor": "Hydraulica Comercial",
+        "observacoes": "MAX,CLEAN(2550)",
+        "categoria": {
+          "id": "3129815",
+          "descricao": "EPI"
+        }
+      }
+    },
+    {
+      "produto": {
+        "id": "307872",
+        "descricao": "CONE DE SINALIZAÇÃO LARANJA",
+        "descricaoCurta": "Cone de segurança de alta resistência, confeccionado em PVC. Devido a pintura sintética, os cones não perdem a coloração com o passar do tempo, aumentando assim a sua durabilidade.",
+        "imageThumbnail": "https://raw.githubusercontent.com/ThiagoSGuiase/hydraulica-comercial-api/main/imgdb/epi/cone-sinalizacao.jpg",
+        "nomeFornecedor": "Hydraulica Comercial",
+        "observacoes": "MAX,CLEAN(2550)",
+        "categoria": {
+          "id": "3129815",
+          "descricao": "EPI"
+        }
+      }
+    },
+    {
+      "produto": {
+        "id": "437533",
+        "descricao": "DOBRADIÇA PESADA SOPRANO",
+        "descricaoCurta": "Dobradiça para portão pesado, chapa reforçada 3.1/2",
+        "imageThumbnail": "https://raw.githubusercontent.com/ThiagoSGuiase/hydraulica-comercial-api/main/imgdb/ferragens/dobradi%C3%A7a-101.jpg",
+        "nomeFornecedor": "Hydraulica Comercial",
+        "observacoes": "MAX,CLEAN(2550)",
+        "categoria": {
+          "id": "3129815",
+          "descricao": "Ferragens"
+        }
+      }
+    },
+    {
+      "produto": {
+        "id": "107259",
+        "descricao": "CADEADO PAPAIZ 35MM",
+        "descricaoCurta": "O CADEADO PAPAIZ 35MM com melhor preço do Brasil acabou de aparecer para você e aqui na Net Elétrica você tem a garantia de qualidade e preço baixo.",
+        "imageThumbnail": "https://raw.githubusercontent.com/ThiagoSGuiase/hydraulica-comercial-api/main/imgdb/ferragens/cadeado-papaiz-35mm.jpg",
+        "nomeFornecedor": "Hydraulica Comercial",
+        "observacoes": "MAX,CLEAN(2550)",
+        "categoria": {
+          "id": "3129815",
+          "descricao": "Ferragens"
+        }
+      }
+    },
+    {
+      "produto": {
+        "id": "978827",
+        "descricao": "FECHADURA PARA PORTA DE ENTRADA CROMADO 40MM",
+        "descricaoCurta": "A fechadura 40mm para Porta de Entrada modelo Popline da marca Soprano com acabamento Cromado deixará seu ambiente ainda mais charmoso e sofisticado.",
+        "imageThumbnail": "https://raw.githubusercontent.com/ThiagoSGuiase/hydraulica-comercial-api/main/imgdb/ferragens/fechadura-porta-cromado.jpg",
+        "nomeFornecedor": "Hydraulica Comercial",
+        "observacoes": "MAX,CLEAN(2550)",
+        "categoria": {
+          "id": "3129815",
+          "descricao": "Ferragens"
+        }
+      }
+    },
+    {
+      "produto": {
+        "id": "341137",
+        "descricao": "ALICATE UNIVERSAL 8'",
+        "descricaoCurta": "Versátil, o alicate universal pode ser utilizado nas mais diversas operações, como puxar, prender, enrolar, deformar e cortar.",
+        "imageThumbnail": "https://raw.githubusercontent.com/ThiagoSGuiase/hydraulica-comercial-api/main/imgdb/ferramentas/alicate-universal.jpg",
+        "nomeFornecedor": "Hydraulica Comercial",
+        "observacoes": "MAX,CLEAN(2550)",
+        "categoria": {
+          "id": "3129815",
+          "descricao": "Ferramentas"
+        }
+      }
+    },
+    {
+      "produto": {
+        "id": "908414",
+        "descricao": "CHAVE DE FENDA 1/8",
+        "descricaoCurta": "Haste em aço Gedore-Vanadium e cabo em polímero na cor azul padrão Gedore. Haste com acabamento niquelado e cromado, com ponta escurecida. Cabo ergonômico.",
+        "imageThumbnail": "https://raw.githubusercontent.com/ThiagoSGuiase/hydraulica-comercial-api/main/imgdb/ferramentas/chave-fenda-1-8.jpg",
+        "nomeFornecedor": "Hydraulica Comercial",
+        "observacoes": "MAX,CLEAN(2550)",
+        "categoria": {
+          "id": "3129815",
+          "descricao": "Ferramentas"
+        }
+      }
+    },
+    {
+      "produto": {
+        "id": "259778",
+        "descricao": "MARTELO UNHA MASTER",
+        "descricaoCurta": "Martelo de unha feito com cabeça forjada e temperada em aço especial, garantindo grande resistência ao produto.",
+        "imageThumbnail": "https://raw.githubusercontent.com/ThiagoSGuiase/hydraulica-comercial-api/main/imgdb/ferramentas/martelo-unha-master.jpg",
+        "nomeFornecedor": "Hydraulica Comercial",
+        "observacoes": "MAX,CLEAN(2550)",
+        "categoria": {
+          "id": "3129815",
+          "descricao": "Ferramentas"
+        }
+      }
+    },
+    {
+      "produto": {
+        "id": "817214",
+        "descricao": "ROLO PINTURA ROMA ESPUMA POLIESTER 15CM",
+        "descricaoCurta": "Rolo de espuma Poliéster, de alta densidade. Diâmetro da espuma para rolos 15cm.",
+        "imageThumbnail": "https://raw.githubusercontent.com/ThiagoSGuiase/hydraulica-comercial-api/main/imgdb/pintura/rolo-pintura-espuma.jpg",
+        "nomeFornecedor": "Hydraulica Comercial",
+        "observacoes": "MAX,CLEAN(2550)",
+        "categoria": {
+          "id": "3129815",
+          "descricao": "Pintura"
+        }
+      }
+    },
+    {
+      "produto": {
+        "id": "530314",
+        "descricao": "PINCEL CERDA GRIS",
+        "descricaoCurta": "Pincel Cerda Gris 3 Atlas 395/7 O Pincel Cerda Gris Atlas possui cerdas gris selecionadas. Excelente relação preço e qualidade.",
+        "imageThumbnail": "https://raw.githubusercontent.com/ThiagoSGuiase/hydraulica-comercial-api/main/imgdb/pintura/pincel-cerda-gris.jpg",
+        "nomeFornecedor": "Hydraulica Comercial",
+        "observacoes": "MAX,CLEAN(2550)",
+        "categoria": {
+          "id": "3129815",
+          "descricao": "Pintura"
+        }
+      }
+    },
+    {
+      "produto": {
+        "id": "481858",
+        "descricao": "SUPORTE PARA ROLO DE PINTURA",
+        "descricaoCurta": "Suporte leve, resistente e de fácil manuseio para qualquer tipo de rolo de pintura nos tamanhos 23,18 e 10cm.",
+        "imageThumbnail": "https://raw.githubusercontent.com/ThiagoSGuiase/hydraulica-comercial-api/main/imgdb/pintura/suporte-rolo-pintura.jpg",
+        "nomeFornecedor": "Hydraulica Comercial",
+        "observacoes": "MAX,CLEAN(2550)",
+        "categoria": {
+          "id": "3129815",
+          "descricao": "Pintura"
         }
       }
     }
