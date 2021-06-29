@@ -576,6 +576,90 @@
           "descricao": "Pintura"
         }
       }
+    },
+    {
+      "produto": {
+        "id": "148521",
+        "descricao": "ADESIVO ACRÍLICO SELADOR DE TRINCAS",
+        "descricaoCurta": "É utilizado para preenchimento de trincas, perímetro e vedação em torno de janelas, vitrôs, rodapés, vedação em torno de box em banheiros, cantos e fissuras de paredes.",
+        "imageThumbnail": "https://raw.githubusercontent.com/ThiagoSGuiase/hydraulica-comercial-api/main/imgdb/adesivos/adesivo-acrilico.jpg",
+        "nomeFornecedor": "Tek Bond",
+        "observacoes": "MAX,CLEAN(2550)",
+        "categoria": {
+          "id": "3129815",
+          "descricao": "Adesivos"
+        }
+      }
+    },
+    {
+      "produto": {
+        "id": "148332",
+        "descricao": "ADESIVO PARA TUBOS DE PVC",
+        "descricaoCurta": "O Adesivo para Tubos de PVC é um produto especialmente desenvolvido para soldagem a frio de materiais plásticos rígidos, tais como PVC, poliestireno, ABS, acrílico, entre outros.",
+        "imageThumbnail": "https://raw.githubusercontent.com/ThiagoSGuiase/hydraulica-comercial-api/main/imgdb/adesivos/adesivos-tubos.jpg",
+        "nomeFornecedor": "Tek Bond",
+        "observacoes": "MAX,CLEAN(2550)",
+        "categoria": {
+          "id": "3129815",
+          "descricao": "Adesivos"
+        }
+      }
+    },
+    {
+      "produto": {
+        "id": "355855",
+        "descricao": "ARALDITE RÁPIDO",
+        "descricaoCurta": "No uso profissional e doméstico, Araldite®️ Rápido é indicado para reparos e colagens de pequenas superfícies de materiais lisos, porosos ou irregulares como azulejos, madeira, vidro...",
+        "imageThumbnail": "https://raw.githubusercontent.com/ThiagoSGuiase/hydraulica-comercial-api/main/imgdb/adesivos/araldite.jpg",
+        "nomeFornecedor": "Tek Bond",
+        "observacoes": "MAX,CLEAN(2550)",
+        "categoria": {
+          "id": "3129815",
+          "descricao": "Adesivos"
+        }
+      }
+    },
+    {
+      "produto": {
+        "id": "787994",
+        "descricao": "FITA FORTE",
+        "descricaoCurta": "Da marca Adere trabalhamos com a família Fita Forte®️. Com ela fixar é tão fácil, seguro e limpo que suas ferramentas não sairão mais da caixa.",
+        "imageThumbnail": "https://raw.githubusercontent.com/ThiagoSGuiase/hydraulica-comercial-api/main/imgdb/adesivos/fita-forte.jpg",
+        "nomeFornecedor": "Adere",
+        "observacoes": "MAX,CLEAN(2550)",
+        "categoria": {
+          "id": "3129815",
+          "descricao": "Adesivos"
+        }
+      }
+    },
+    {
+      "produto": {
+        "id": "200840",
+        "descricao": "SILICONE ACÉTICO TRANSPARENTE",
+        "descricaoCurta": "É considerado um silicone de uso geral, muito utilizado na construção civil na vedação e selagem de pias e vasos sanitários, box em banheiros, portas e janelas. Possui excelente resistência aos raios UV e pode ser aplicado em áreas externas.",
+        "imageThumbnail": "https://raw.githubusercontent.com/ThiagoSGuiase/hydraulica-comercial-api/main/imgdb/adesivos/silicone-acetico.jpg",
+        "nomeFornecedor": "Tek Bond",
+        "observacoes": "MAX,CLEAN(2550)",
+        "categoria": {
+          "id": "3129815",
+          "descricao": "Adesivos"
+        }
+      }
+    },
+    {
+      "produto": {
+        "id": "653853",
+        "descricao": "SILVER TAPE",
+        "descricaoCurta": "A Silver Tape  é indicada para as mais diversas aplicações: Empacotamento e fechamento de caixas e embalagens em geral; Trabalhos de manutenção em geral; Vedação de dutos de ar condicionado e refrigeração.",
+        "imageThumbnail": "https://raw.githubusercontent.com/ThiagoSGuiase/hydraulica-comercial-api/main/imgdb/adesivos/silver-tape.jpg",
+        "nomeFornecedor": "Adere",
+        "observacoes": "MAX,CLEAN(2550)",
+        "categoria": {
+          "id": "3129815",
+          "descricao": "Adesivos"
+        }
+      }
     }
   ]
 }
